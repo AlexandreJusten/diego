@@ -1,11 +1,5 @@
 [
   {
-    "img": "https://raw.githubusercontent.com/AlexandreJusten/diego/main/banner.png",
-    "name": "teste",
-    "categoria": "2",
-    "price": 3
-  },
-  {
     "img": "https://raw.githubusercontent.com/AlexandreJusten/diego/main/6-min-1024x341.jpg",
     "name": "f",
     "categoria": "4",
